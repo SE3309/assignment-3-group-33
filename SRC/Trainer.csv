@@ -1,0 +1,501 @@
+TrainerID,PersonID,Specialization,TrainerRating
+T1,P476,Industrial buyer,3.4
+T2,P2853,"Scientist, biomedical",4.4
+T3,P2826,Public house manager,4.6
+T4,P2342,Special effects artist,4.4
+T5,P2465,Special educational needs teacher,3.7
+T6,P2235,Trade mark attorney,3.3
+T7,P1323,Cartographer,3.6
+T8,P275,Hydrographic surveyor,3.5
+T9,P2113,Sport and exercise psychologist,4.7
+T10,P2366,Sports therapist,4.5
+T11,P2571,Local government officer,4.2
+T12,P1263,Research scientist (medical),3.2
+T13,P1559,Public relations account executive,4.5
+T14,P534,Land/geomatics surveyor,3.2
+T15,P1292,Make,3.1
+T16,P2555,Interpreter,4.3
+T17,P1931,Pension scheme manager,4.3
+T18,P2419,"Surveyor, building control",3.8
+T19,P2928,Tree surgeon,3.2
+T20,P1904,Banker,3.1
+T21,P56,Economist,3.8
+T22,P998,Seismic interpreter,3.7
+T23,P170,"Restaurant manager, fast food",3.8
+T24,P2101,Charity officer,3.7
+T25,P1783,"Presenter, broadcasting",3.3
+T26,P911,"Doctor, general practice",4.9
+T27,P991,Field seismologist,3.8
+T28,P1620,Editorial assistant,4.0
+T29,P1928,"Psychologist, prison and probation services",4.7
+T30,P2354,"Designer, multimedia",4.2
+T31,P2337,Estate manager/land agent,4.2
+T32,P2325,Data processing manager,4.6
+T33,P197,"Lighting technician, broadcasting/film/video",4.0
+T34,P420,"Pharmacist, hospital",3.7
+T35,P2194,Speech and language therapist,3.0
+T36,P635,Visual merchandiser,3.7
+T37,P135,Public relations account executive,5.0
+T38,P1598,Financial adviser,4.3
+T39,P1418,Printmaker,4.6
+T40,P1913,Copy,3.4
+T41,P932,Pensions consultant,4.7
+T42,P1542,"Buyer, industrial",4.5
+T43,P1014,"Exhibitions officer, museum/gallery",3.7
+T44,P1238,Hospital pharmacist,4.1
+T45,P2463,Herbalist,3.8
+T46,P2167,Personnel officer,3.7
+T47,P475,Environmental consultant,3.1
+T48,P913,Osteopath,3.9
+T49,P1153,"Teacher, music",4.6
+T50,P360,Product designer,5.0
+T51,P2776,"Designer, exhibition/display",4.5
+T52,P2374,Radio broadcast assistant,5.0
+T53,P1775,Magazine journalist,4.2
+T54,P1036,Research scientist (physical sciences),4.9
+T55,P2000,"Engineer, materials",4.9
+T56,P963,Chief Financial Officer,3.7
+T57,P219,Data processing manager,4.1
+T58,P2017,"Psychotherapist, child",3.3
+T59,P2871,"Copywriter, advertising",4.7
+T60,P649,"Designer, fashion/clothing",3.7
+T61,P1920,Analytical chemist,5.0
+T62,P1717,Video editor,3.4
+T63,P1548,Public house manager,3.6
+T64,P2987,Insurance risk surveyor,4.2
+T65,P46,Higher education careers adviser,3.3
+T66,P1087,Educational psychologist,4.4
+T67,P2005,Microbiologist,4.8
+T68,P151,Bookseller,3.8
+T69,P1918,Holiday representative,4.0
+T70,P1149,Tree surgeon,3.3
+T71,P2012,Theatre stage manager,4.5
+T72,P1827,Merchant navy officer,3.2
+T73,P144,"Librarian, public",3.7
+T74,P2224,Technical sales engineer,3.6
+T75,P2029,"Psychologist, prison and probation services",4.9
+T76,P1583,Textile designer,4.8
+T77,P317,Records manager,3.8
+T78,P1108,"Civil engineer, contracting",3.7
+T79,P1078,Radiation protection practitioner,3.4
+T80,P120,Health and safety adviser,3.9
+T81,P2052,Advertising account executive,3.0
+T82,P1440,"Journalist, magazine",3.3
+T83,P2854,"Therapist, nutritional",3.1
+T84,P976,Farm manager,3.8
+T85,P40,Arts development officer,4.1
+T86,P380,"Chemist, analytical",3.6
+T87,P2915,"Designer, exhibition/display",4.7
+T88,P2982,Economist,3.5
+T89,P718,Technical author,4.2
+T90,P281,Oncologist,3.3
+T91,P527,Consulting civil engineer,3.8
+T92,P2250,"Therapist, drama",3.7
+T93,P935,Insurance claims handler,3.5
+T94,P304,Information systems manager,4.1
+T95,P908,Hydrologist,3.2
+T96,P2829,Corporate treasurer,3.7
+T97,P1676,Aid worker,3.7
+T98,P740,Market researcher,3.3
+T99,P2691,Prison officer,3.1
+T100,P2939,Commissioning editor,4.2
+T101,P1255,Clinical psychologist,4.7
+T102,P2832,Catering manager,4.0
+T103,P1196,Soil scientist,3.6
+T104,P2195,Tour manager,3.8
+T105,P1653,Sales executive,4.6
+T106,P558,"Pharmacist, hospital",3.6
+T107,P1327,IT trainer,3.9
+T108,P886,Charity officer,4.8
+T109,P2279,"Geologist, wellsite",4.4
+T110,P1614,Pensions consultant,4.2
+T111,P1520,Video editor,4.6
+T112,P1110,Data scientist,3.8
+T113,P1866,Charity fundraiser,4.1
+T114,P1708,Musician,3.3
+T115,P1835,Sports development officer,5.0
+T116,P2796,"Psychologist, educational",4.7
+T117,P1912,Chartered loss adjuster,4.9
+T118,P2714,Animal nutritionist,4.3
+T119,P28,Quantity surveyor,4.4
+T120,P382,"Horticulturist, amenity",4.1
+T121,P2020,Games developer,4.4
+T122,P1355,Tax adviser,4.2
+T123,P2683,Scientific laboratory technician,3.9
+T124,P1681,Secondary school teacher,4.7
+T125,P2249,Airline pilot,3.7
+T126,P1197,Field seismologist,3.9
+T127,P972,"Education officer, museum",3.6
+T128,P2961,"Engineer, automotive",4.5
+T129,P883,"Scientist, audiological",3.8
+T130,P223,Armed forces technical officer,3.8
+T131,P1075,Clinical biochemist,5.0
+T132,P1279,"Scientist, biomedical",4.7
+T133,P1819,Chartered public finance accountant,4.2
+T134,P1857,Garment/textile technologist,4.5
+T135,P1881,IT consultant,4.7
+T136,P1578,"Scientist, water quality",3.4
+T137,P2268,Recycling officer,3.1
+T138,P805,"Engineer, chemical",3.8
+T139,P2049,Legal executive,4.4
+T140,P1080,Hospital doctor,4.2
+T141,P1720,Hospital doctor,3.7
+T142,P2858,"Psychologist, educational",3.6
+T143,P2285,Visual merchandiser,3.5
+T144,P2627,"Therapist, art",3.7
+T145,P2904,Chartered certified accountant,3.1
+T146,P2077,Manufacturing systems engineer,3.9
+T147,P1262,Fish farm manager,3.3
+T148,P603,Tree surgeon,3.6
+T149,P1732,Fitness centre manager,3.7
+T150,P266,Health service manager,4.0
+T151,P412,Sports administrator,4.9
+T152,P7,Financial trader,4.2
+T153,P1534,Estate agent,4.1
+T154,P469,Occupational therapist,3.5
+T155,P1622,"Lecturer, higher education",3.1
+T156,P2946,"Engineer, drilling",4.1
+T157,P2672,Town planner,4.8
+T158,P2298,Air traffic controller,4.8
+T159,P2003,Adult nurse,4.4
+T160,P331,Music tutor,4.9
+T161,P625,Sales executive,4.7
+T162,P2072,Interior and spatial designer,4.6
+T163,P1957,"Radiographer, diagnostic",3.9
+T164,P769,Art gallery manager,4.7
+T165,P384,"Scientist, research (medical)",4.2
+T166,P2628,"Education officer, environmental",3.9
+T167,P2560,Insurance underwriter,3.4
+T168,P1419,Teaching laboratory technician,4.6
+T169,P1095,Public affairs consultant,3.4
+T170,P2307,Health and safety adviser,4.6
+T171,P2422,"Engineer, mining",4.4
+T172,P629,"Research officer, government",3.9
+T173,P1044,"Surveyor, building",3.5
+T174,P888,"Engineer, site",3.9
+T175,P2805,"Radiographer, therapeutic",4.4
+T176,P445,Administrator,5.0
+T177,P2836,Electrical engineer,4.7
+T178,P1803,Special effects artist,3.3
+T179,P322,Artist,4.5
+T180,P854,Interpreter,4.7
+T181,P627,Dispensing optician,3.4
+T182,P2064,"Librarian, public",4.6
+T183,P1073,Tour manager,3.4
+T184,P1114,Naval architect,3.5
+T185,P758,Fast food restaurant manager,4.7
+T186,P1966,"Scientist, product/process development",4.5
+T187,P592,Insurance account manager,3.8
+T188,P511,Commercial/residential surveyor,3.9
+T189,P962,Dietitian,4.2
+T190,P2766,Television floor manager,4.4
+T191,P76,Multimedia specialist,3.5
+T192,P653,Petroleum engineer,4.7
+T193,P2789,"Physicist, medical",3.9
+T194,P1600,"Therapist, speech and language",4.8
+T195,P1421,Systems developer,4.9
+T196,P923,Education administrator,4.3
+T197,P1853,Archaeologist,4.6
+T198,P2317,Film/video editor,4.2
+T199,P1539,Site engineer,4.9
+T200,P418,Private music teacher,3.8
+T201,P2609,"Lighting technician, broadcasting/film/video",3.1
+T202,P2476,Insurance broker,3.1
+T203,P1528,Chief Executive Officer,4.7
+T204,P2404,Chief Operating Officer,4.4
+T205,P1105,Cabin crew,4.8
+T206,P1477,Microbiologist,4.3
+T207,P2573,Learning mentor,3.2
+T208,P2549,"Designer, industrial/product",3.5
+T209,P1778,Retail manager,3.8
+T210,P1690,Geoscientist,4.8
+T211,P2414,Astronomer,3.6
+T212,P2501,Psychotherapist,4.2
+T213,P2940,Warehouse manager,4.9
+T214,P1354,Physiological scientist,5.0
+T215,P2827,Community development worker,3.3
+T216,P2656,Sports therapist,4.5
+T217,P2186,Health physicist,3.9
+T218,P1194,Communications engineer,3.4
+T219,P1000,"Engineer, broadcasting (operations)",4.6
+T220,P1349,"Radiographer, diagnostic",3.8
+T221,P2641,Medical secretary,3.4
+T222,P2510,Engineering geologist,3.6
+T223,P1845,Archaeologist,3.5
+T224,P2497,IT technical support officer,4.5
+T225,P2471,Chartered legal executive (England and Wales),3.2
+T226,P1971,Comptroller,5.0
+T227,P2370,Retail banker,3.9
+T228,P2611,Health promotion specialist,4.3
+T229,P766,Music tutor,4.7
+T230,P1526,Financial manager,3.7
+T231,P2120,"Programmer, systems",4.9
+T232,P2121,"Teacher, adult education",3.1
+T233,P680,Pathologist,3.9
+T234,P559,Intelligence analyst,4.5
+T235,P983,Diagnostic radiographer,3.2
+T236,P785,Homeopath,4.5
+T237,P608,Administrator,4.5
+T238,P321,Exercise physiologist,3.2
+T239,P1200,Advertising account planner,3.0
+T240,P828,"Psychologist, forensic",3.1
+T241,P303,Drilling engineer,4.8
+T242,P2081,"Producer, radio",5.0
+T243,P295,"Scientist, biomedical",3.9
+T244,P2297,Occupational psychologist,5.0
+T245,P2922,Tourism officer,4.1
+T246,P1942,Tourist information centre manager,3.4
+T247,P293,Theatre director,4.7
+T248,P1134,Animal nutritionist,4.8
+T249,P721,Rural practice surveyor,3.2
+T250,P760,"Nurse, mental health",4.4
+T251,P2457,Occupational hygienist,4.6
+T252,P263,"Conservation officer, historic buildings",3.8
+T253,P994,Data scientist,3.9
+T254,P1546,Arts administrator,4.4
+T255,P2260,Visual merchandiser,3.3
+T256,P2655,Clinical biochemist,4.5
+T257,P1719,"Psychologist, sport and exercise",3.4
+T258,P2262,Consulting civil engineer,3.9
+T259,P1666,Retail banker,3.6
+T260,P1736,Field seismologist,3.8
+T261,P871,Estate manager/land agent,3.3
+T262,P2534,Accommodation manager,4.3
+T263,P1055,Logistics and distribution manager,3.7
+T264,P2913,Building services engineer,4.2
+T265,P650,Consulting civil engineer,4.5
+T266,P508,Waste management officer,3.3
+T267,P1013,"Designer, interior/spatial",4.7
+T268,P1064,Personnel officer,4.4
+T269,P1410,Information officer,4.0
+T270,P1836,IT technical support officer,4.6
+T271,P757,Financial trader,3.7
+T272,P2740,Aeronautical engineer,4.4
+T273,P1636,"Teacher, primary school",4.9
+T274,P2732,Audiological scientist,3.4
+T275,P590,Orthoptist,3.3
+T276,P880,"Research officer, trade union",3.4
+T277,P1332,Therapeutic radiographer,3.4
+T278,P2041,IT sales professional,4.8
+T279,P960,"Engineer, manufacturing",3.1
+T280,P2989,Database administrator,4.1
+T281,P457,Planning and development surveyor,4.8
+T282,P347,Race relations officer,3.5
+T283,P1122,Senior tax professional/tax inspector,3.9
+T284,P1899,"Embryologist, clinical",5.0
+T285,P1721,Video editor,3.4
+T286,P2075,Actuary,3.4
+T287,P1882,Geographical information systems officer,3.7
+T288,P1447,Geographical information systems officer,5.0
+T289,P1475,Network engineer,3.3
+T290,P652,Risk analyst,4.6
+T291,P859,Administrator,4.3
+T292,P2521,"Nurse, learning disability",3.1
+T293,P1996,Animator,4.3
+T294,P221,Technical brewer,3.5
+T295,P1944,Retail buyer,4.5
+T296,P1228,Biomedical scientist,3.9
+T297,P2126,Horticultural consultant,5.0
+T298,P2040,"Geologist, engineering",3.9
+T299,P426,"Engineer, automotive",3.5
+T300,P1264,"Engineer, aeronautical",3.8
+T301,P1486,Research scientist (medical),4.5
+T302,P1895,"Psychologist, prison and probation services",4.1
+T303,P1922,"Copywriter, advertising",3.7
+T304,P1529,"Development worker, community",3.6
+T305,P659,"Lecturer, higher education",4.5
+T306,P1241,English as a foreign language teacher,3.8
+T307,P226,"Surveyor, rural practice",4.2
+T308,P1878,Software engineer,3.1
+T309,P937,Hydrogeologist,3.2
+T310,P423,"Conservator, furniture",4.6
+T311,P1312,Therapeutic radiographer,4.5
+T312,P2802,Immunologist,4.5
+T313,P1090,Computer games developer,4.7
+T314,P1379,"Sales professional, IT",4.2
+T315,P2643,Quantity surveyor,3.1
+T316,P1820,Database administrator,3.3
+T317,P702,Site engineer,4.9
+T318,P1438,Multimedia specialist,3.5
+T319,P1035,Biomedical engineer,4.2
+T320,P481,"Scientist, biomedical",4.3
+T321,P794,Stage manager,3.7
+T322,P1883,Video editor,4.0
+T323,P2038,"Administrator, local government",4.9
+T324,P1705,"Teacher, primary school",3.3
+T325,P2228,Clinical psychologist,4.8
+T326,P1645,"Scientist, research (physical sciences)",4.6
+T327,P786,"Education officer, environmental",3.6
+T328,P2721,Leisure centre manager,4.0
+T329,P1758,Fast food restaurant manager,5.0
+T330,P349,Toxicologist,3.9
+T331,P1104,Patent examiner,3.4
+T332,P1985,Structural engineer,3.6
+T333,P2697,Economist,3.2
+T334,P1718,Oncologist,3.0
+T335,P1987,Best boy,4.2
+T336,P1155,Gaffer,3.3
+T337,P1072,Government social research officer,3.3
+T338,P1252,Amenity horticulturist,4.7
+T339,P1454,Marine scientist,3.3
+T340,P1175,"Investment banker, operational",3.4
+T341,P1340,Agricultural engineer,4.4
+T342,P1858,Curator,3.7
+T343,P2390,"Education officer, museum",3.2
+T344,P2361,Video editor,3.5
+T345,P967,"Civil engineer, contracting",3.4
+T346,P1152,Administrator,3.3
+T347,P810,"Horticulturist, commercial",3.4
+T348,P2567,"Teacher, adult education",4.4
+T349,P630,Public relations officer,3.9
+T350,P2644,"Engineer, petroleum",3.2
+T351,P1001,Legal secretary,4.0
+T352,P2028,"Designer, jewellery",4.9
+T353,P2762,Podiatrist,4.6
+T354,P878,"Accountant, chartered certified",4.2
+T355,P2308,Clinical biochemist,3.9
+T356,P1011,Training and development officer,3.2
+T357,P1805,Housing manager/officer,3.3
+T358,P1831,"Biochemist, clinical",3.3
+T359,P772,Diagnostic radiographer,4.6
+T360,P2283,Broadcast engineer,4.7
+T361,P2661,Forest/woodland manager,3.8
+T362,P2479,Osteopath,3.7
+T363,P1374,Armed forces logistics/support/administrative officer,4.7
+T364,P620,Higher education lecturer,3.7
+T365,P1497,Production manager,4.9
+T366,P2223,Video editor,3.8
+T367,P930,Physiological scientist,4.2
+T368,P2842,Arts administrator,3.2
+T369,P2861,Energy engineer,3.6
+T370,P1581,"Designer, industrial/product",4.2
+T371,P2378,Neurosurgeon,4.4
+T372,P929,Clinical cytogeneticist,3.1
+T373,P1455,Careers adviser,3.5
+T374,P1020,Passenger transport manager,3.4
+T375,P363,Wellsite geologist,3.4
+T376,P660,Commercial/residential surveyor,3.1
+T377,P1473,Dealer,4.6
+T378,P1383,Customer service manager,3.2
+T379,P2754,Freight forwarder,3.1
+T380,P2690,English as a foreign language teacher,3.4
+T381,P2586,"Optician, dispensing",4.6
+T382,P1588,Retail buyer,4.3
+T383,P1959,Product designer,3.7
+T384,P2623,Youth worker,5.0
+T385,P2890,"Restaurant manager, fast food",4.6
+T386,P2295,Research scientist (physical sciences),3.3
+T387,P258,Forensic scientist,3.5
+T388,P42,Health and safety inspector,3.2
+T389,P656,"Engineer, materials",4.4
+T390,P477,Nature conservation officer,4.8
+T391,P1982,Financial manager,4.0
+T392,P176,Higher education lecturer,4.8
+T393,P2462,Publishing copy,4.0
+T394,P2885,Teaching laboratory technician,3.9
+T395,P2557,Colour technologist,4.7
+T396,P2239,Financial planner,5.0
+T397,P2006,Manufacturing systems engineer,3.5
+T398,P2889,Systems analyst,3.1
+T399,P2899,Commissioning editor,3.3
+T400,P2779,Museum education officer,4.8
+T401,P2240,Planning and development surveyor,3.8
+T402,P2718,Race relations officer,4.2
+T403,P2752,Jewellery designer,4.1
+T404,P491,"Psychologist, prison and probation services",4.8
+T405,P2460,Hotel manager,4.4
+T406,P1085,Holiday representative,4.3
+T407,P1591,Higher education lecturer,3.3
+T408,P1192,Television floor manager,4.6
+T409,P842,Careers information officer,3.4
+T410,P1324,Warden/ranger,3.8
+T411,P2622,"Runner, broadcasting/film/video",3.9
+T412,P182,Claims inspector/assessor,3.4
+T413,P1493,Tree surgeon,4.0
+T414,P1522,"Designer, multimedia",4.9
+T415,P1595,"Therapist, drama",3.5
+T416,P1741,"Pilot, airline",4.5
+T417,P2540,Bonds trader,4.3
+T418,P2218,Armed forces training and education officer,3.5
+T419,P1954,"Surveyor, quantity",3.6
+T420,P2944,Art therapist,3.8
+T421,P1405,Audiological scientist,3.2
+T422,P2894,Equities trader,4.1
+T423,P712,Government social research officer,4.4
+T424,P470,"Engineer, electronics",4.1
+T425,P70,Furniture conservator/restorer,3.5
+T426,P647,Financial trader,3.0
+T427,P215,"Research officer, government",5.0
+T428,P51,"Administrator, arts",4.5
+T429,P634,"Buyer, retail",4.0
+T430,P48,Occupational therapist,4.5
+T431,P1184,Animal nutritionist,4.9
+T432,P1604,Academic librarian,3.7
+T433,P1735,Musician,4.2
+T434,P1176,Illustrator,3.0
+T435,P2454,"Therapist, nutritional",4.5
+T436,P200,Systems analyst,3.8
+T437,P2554,Careers information officer,4.0
+T438,P1372,Information systems manager,4.6
+T439,P695,Child psychotherapist,3.9
+T440,P460,Company secretary,3.5
+T441,P1141,Drilling engineer,4.7
+T442,P1806,Brewing technologist,3.4
+T443,P885,Textile designer,3.9
+T444,P142,Health promotion specialist,3.4
+T445,P1054,Broadcast presenter,3.5
+T446,P1915,Leisure centre manager,3.1
+T447,P872,Water quality scientist,3.9
+T448,P1309,Manufacturing systems engineer,3.1
+T449,P2775,Environmental manager,4.3
+T450,P228,"Education officer, community",3.6
+T451,P2383,"Geneticist, molecular",3.9
+T452,P737,Child psychotherapist,4.7
+T453,P2124,Chiropractor,4.2
+T454,P1234,Environmental health practitioner,3.2
+T455,P319,"Engineer, maintenance (IT)",3.2
+T456,P2058,Farm manager,4.0
+T457,P1051,"Engineer, site",3.0
+T458,P2512,Insurance account manager,4.2
+T459,P404,Logistics and distribution manager,3.5
+T460,P783,Careers information officer,4.8
+T461,P2095,Social researcher,3.9
+T462,P1061,English as a second language teacher,3.5
+T463,P1849,"Radiographer, therapeutic",4.8
+T464,P1424,Tax inspector,3.6
+T465,P2857,Dentist,4.7
+T466,P2349,Counsellor,4.1
+T467,P2396,Teaching laboratory technician,3.0
+T468,P2825,Futures trader,4.7
+T469,P907,Forensic scientist,4.9
+T470,P2393,Materials engineer,3.3
+T471,P2066,"Psychologist, occupational",3.7
+T472,P1862,Patent attorney,4.6
+T473,P1501,"Designer, fashion/clothing",4.5
+T474,P826,"Designer, graphic",5.0
+T475,P376,Ambulance person,4.9
+T476,P1102,Leisure centre manager,3.1
+T477,P1956,Catering manager,5.0
+T478,P2983,Financial trader,3.4
+T479,P320,Waste management officer,3.1
+T480,P1092,Exhibition designer,4.9
+T481,P1746,Holiday representative,3.6
+T482,P2140,Lawyer,3.9
+T483,P198,Paramedic,3.9
+T484,P2589,Theatre manager,5.0
+T485,P1557,"Editor, commissioning",3.9
+T486,P2588,Freight forwarder,3.3
+T487,P2256,Financial planner,3.2
+T488,P940,"Buyer, industrial",4.6
+T489,P406,"Engineer, agricultural",5.0
+T490,P47,Teaching laboratory technician,3.2
+T491,P2665,Meteorologist,4.2
+T492,P784,Telecommunications researcher,4.4
+T493,P1126,Chief Executive Officer,3.6
+T494,P2548,"Embryologist, clinical",3.7
+T495,P1599,"Librarian, academic",3.2
+T496,P196,"Engineer, automotive",4.1
+T497,P8,Visual merchandiser,3.4
+T498,P2346,"Therapist, occupational",4.8
+T499,P2591,Engineering geologist,4.2
+T500,P434,Clinical psychologist,3.2
